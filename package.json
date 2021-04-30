@@ -1,9 +1,9 @@
 {
-  "name": "cordova-plugin-jitsi",
+  "name": "cordova-plugin-jitsi-xcframework",
   "version": "0.0.2",
   "description": "\n       This is plugin for Jitsi Meet calling service!\n    ",
   "cordova": {
-    "id": "cordova-plugin-jitsi",
+    "id": "cordova-plugin-jitsi-xcframework",
     "platforms": [
       "android",
       "ios"
