@@ -1,6 +1,8 @@
 # cordova-plugin-jitsi
 
-(note: this fork does not work yet!)
+
+**(NOTE: THIS REPO DOES NOT WORK YET!!!! DO NOT TRY FOR PRODUCTION)**
+
 
 Cordova plugin for Jitsi Meet React Native SDK. Works with both iOS and Android, and fixes the 64-bit binary dependency issue with Android found in previous versions of this plugin.
 
